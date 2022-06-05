@@ -1,2 +1,7 @@
-Nesse projeto tentei recriar a interface principal da Netflix antes de logar.
-pude aprender muito sobre o Accordion List com JavaScript.
+#👻 Responsive NETFLIX CLONE Page
+- Responsive Page Using HTML CSS & JavaScript
+- Contains CSS animations.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![preview img](/preview.png)
