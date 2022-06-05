@@ -1,4 +1,4 @@
-# 📺 ResponsiveNETFLIX CLONE Page
+# 📺 Responsive NETFLIX CLONE Page
 - Responsive Page Using HTML CSS & JavaScript
 - Contains CSS animations.
 - Developed first with the Mobile First methodology, then for desktop.
